@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83569142546",
+    "firebase_url": "https://catermelon.firebaseio.com",
+    "project_id": "catermelon",
+    "storage_bucket": "catermelon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83569142546:android:567571634d1a79e865e1cb",
+        "android_client_info": {
+          "package_name": "com.caren.catermelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83569142546-kcfv5o7r2jt4nvjjjss84nfh4svhj6tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZInfMOpGwZLKumrVEbwtyHcgHWucAv_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83569142546-kcfv5o7r2jt4nvjjjss84nfh4svhj6tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
